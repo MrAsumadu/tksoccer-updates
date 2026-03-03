@@ -1,0 +1,166 @@
+# Verion 0.7.0_pre-alpha
+
+This update focuses on **progression, rewards, shop systems, premium content, UI polish, and significantly improved ball physics**.
+
+---
+
+## 🎁 NEW: Player Progression & Reward System
+
+### 🆙 Level-Up Rewards
+
+* Players now earn **rewards when leveling up**
+* Milestone levels can grant **random cosmetic rewards**
+* Rewards are clearly displayed on a redesigned end screen
+
+### 🎉 New Reward Reveal Screen
+
+* Brand-new **reward reveal animations** at the end of matches
+* Items now display:
+
+  * Rarity color backgrounds
+  * Rarity badges
+  * Improved title rendering
+  * Cleaner animations and transitions
+
+### 🎲 Random Item Drops
+
+* Random rewards now use a **weighted rarity system**
+* Certain items are excluded from random drops to preserve rarity
+
+### 💰 Starting Economy Update
+
+* New players now start with **500 Cash**
+* Economy and item ownership logic improved for reliability
+
+---
+
+## 🛒 Shop & Premium Store Overhaul
+
+### 🏪 Daily Rotating Shop
+
+* Shop rotates items daily using improved calculation logic
+* Weighted rarity system for fair rotation
+* Ownership validation improved to prevent duplicate purchases
+
+### 💎 Premium Store Added
+
+* New **Premium Store** for game passes and developer products
+* Improved item previews with character model display
+* Better hover effects and ownership indicators
+* Cleaner confirmation dialogs with preview support
+
+### 🪙 Developer Product Support
+
+* Developer product purchases now:
+
+  * Process correctly
+  * Grant coins instantly
+  * Validate securely server-side
+
+---
+
+## 👕 Customisation & Character Improvements
+
+### 🔢 Kit Number System
+
+* Players can now set their **Kit Number**
+* Includes increment/decrement UI and confirmation system
+* Fully customizable
+
+### 🎭 Celebration Previews
+
+* Celebrations can now be previewed in-menu
+* Improved visibility handling during cinematics
+* Character properly restores after preview
+
+### 🧢 Accessory Cleanup
+
+* Non-essential accessories removed on spawn for cleaner visuals and performance
+
+### 🎨 Item Visual Enhancements
+
+* Rarity-based background colors
+* Particle indicators with tooltips
+* Improved kit text rendering and cleanup
+
+---
+
+## 🎮 Controller & Input Improvements
+
+* Improved **gamepad support**
+
+  * D-Pad tool switching
+  * Proper PlayStation & Xbox input prompts
+  * Cleaner tool activation handling
+* Refined set piece action bindings
+* Free kick and penalty prompts now display correctly
+
+---
+
+## ⚽ Major Ball Physics Upgrade
+
+### 🌀 Magnus & Spin Physics
+
+* Added **Magnus force** for realistic curved shots
+* Added drag forces
+* Implemented spin decay for natural ball behavior
+* Trajectory prediction now matches live physics
+
+### 🔧 Shot Tuning
+
+* Increased maximum shot power
+* Adjusted gravity scaling for low-angle shots
+* Reduced excessive spin for better balance
+* Improved ball rotation syncing
+
+### 🧠 Smarter Foul Logic
+
+* Advantage and foul awarding now better account for ball ownership
+
+---
+
+## 🎥 Match & End Screen Improvements
+
+* Match timer consistency fixed
+* Scoreboard stability improved
+* Reward pages integrated into match completion flow
+* Debug trajectory disabled for live builds
+
+---
+
+## 🖥️ UI & Menu Polish
+
+* Cleaner menu transitions and camera positioning
+* Backpack handling unified across systems
+* Improved panel color distinction (Premium clearly highlighted)
+* Lighting and post-processing tuned for clarity
+
+---
+
+## 📢 Pitchside Advertisements
+
+* New dynamic pitchside ads
+* Smooth animated transitions
+* Expanded variety of advertisement boards
+
+---
+
+## 🛠️ Performance & Stability
+
+* Improved memory cleanup across UI systems
+* Fixed tooltip connection leaks
+* Removed obsolete assets and debug warnings
+* Improved profile loading reliability
+* Balanced skill move force calculations
+
+---
+
+# Summary
+
+This update introduces:
+
+• Real progression with meaningful rewards
+• A fully upgraded shop and premium system
+• Significantly improved and more realistic ball physics
+
+More updates coming soon ⚽🔥
