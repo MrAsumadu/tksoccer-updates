@@ -1,14 +1,14 @@
-<b>TK Soccer — Version 0.7.0 (Pre-Alpha)</b><br/><br/>
+<b>TK Soccer — Version 0.7.0 (Pre-Alpha)</b>
 
 This update focuses on <b>progression, rewards, shop systems, 
-premium content, UI polish, and significantly improved ball physics.</b><br/><br/>
+premium content, UI polish, and significantly improved ball physics.</b>
 
-<b>🎁 NEW: Player Progression & Reward System</b><br/><br/>
+<b>🎁 NEW: Player Progression & Reward System</b>
 
 <b>🆙 Level-Up Rewards</b><br/>
 • Players now earn <b>rewards when leveling up</b><br/>
 • Milestone levels can grant <b>random cosmetic rewards</b><br/>
-• Rewards are clearly displayed on a redesigned end screen<br/><br/>
+• Rewards are clearly displayed on a redesigned end screen
 
 <b>🎉 New Reward Reveal Screen</b><br/>
 • Brand-new <b>reward reveal animations</b> at the end of matches<br/>
@@ -16,50 +16,50 @@ Items now display:<br/>
 • Rarity color backgrounds<br/>
 • Rarity badges<br/>
 • Improved title rendering<br/>
-• Cleaner animations and transitions<br/><br/>
+• Cleaner animations and transitions
 
 <b>🎲 Random Item Drops</b><br/>
 • Random rewards now use a <b>weighted rarity system</b><br/>
-• Certain items are excluded from random drops to preserve rarity<br/><br/>
+• Certain items are excluded from random drops to preserve rarity
 
 <b>💰 Starting Economy Update</b><br/>
 • New players now start with <b>500 Cash</b><br/>
-• Economy and item ownership logic improved for reliability<br/><br/>
+• Economy and item ownership logic improved for reliability
 
-<b>🛒 Shop & Premium Store Overhaul</b><br/><br/>
+<b>🛒 Shop & Premium Store Overhaul</b>
 
 <b>🏪 Daily Rotating Shop</b><br/>
 • Shop rotates items daily using improved calculation logic<br/>
 • Weighted rarity system for fair rotation<br/>
-• Ownership validation improved to prevent duplicate purchases<br/><br/>
+• Ownership validation improved to prevent duplicate purchases
 
 <b>💎 Premium Store Added</b><br/>
 • New <b>Premium Store</b> for game passes and developer products<br/>
 • Improved item previews with character model display<br/>
 • Better hover effects and ownership indicators<br/>
-• Cleaner confirmation dialogs with preview support<br/><br/>
+• Cleaner confirmation dialogs with preview support
 
 <b>🪙 Developer Product Support</b><br/>
 Developer product purchases now:<br/>
 • Process correctly<br/>
 • Grant coins instantly<br/>
-• Validate securely server-side<br/><br/>
+• Validate securely server-side
 
-<b>👕 Customisation & Character Improvements</b><br/><br/>
+<b>👕 Customisation & Character Improvements</b>
 
 <b>🔢 Kit Number System</b><br/>
 • Players can now set their <b>Kit Number</b><br/>
 • Includes increment/decrement UI and confirmation system<br/>
-• Fully customizable<br/><br/>
+• Fully customizable
 
 <b>🎭 Celebration Previews</b><br/>
 • Celebrations can now be previewed in menu<br/>
 • Improved visibility handling during cinematics<br/>
-• Character properly restores after preview<br/><br/>
+• Character properly restores after preview
 
 <b>🧢 Accessory Cleanup</b><br/>
 • Non-essential accessories removed on spawn for 
-cleaner visuals and performance<br/><br/>
+cleaner visuals and performance
 
 <b>🎮 Controller & Input Improvements</b><br/>
 • Improved <b>gamepad support</b><br/>
@@ -67,47 +67,47 @@ cleaner visuals and performance<br/><br/>
 • Proper PlayStation & Xbox input prompts<br/>
 • Cleaner tool activation handling<br/>
 • Refined set piece action bindings<br/>
-• Free kick and penalty prompts now display correctly<br/><br/>
+• Free kick and penalty prompts now display correctly
 
-<b>⚽ Major Ball Physics Upgrade</b><br/><br/>
+<b>⚽ Major Ball Physics Upgrade</b>
 
 <b>🔧 Shot Tuning</b><br/>
 • Increased maximum shot power<br/>
 • Adjusted gravity scaling for low-angle shots<br/>
 • Reduced excessive spin for better balance<br/>
-• Improved ball rotation syncing<br/><br/>
+• Improved ball rotation syncing
 
 <b>🧠 Smarter Foul Logic</b><br/>
-• Advantage and foul awarding now better account for ball ownership<br/><br/>
+• Advantage and foul awarding now better account for ball ownership
 
 <b>🎥 Match & End Screen Improvements</b><br/>
 • Match timer consistency fixed<br/>
 • Scoreboard stability improved<br/>
 • Reward pages integrated into match completion flow<br/>
-• Debug trajectory disabled for live builds<br/><br/>
+• Debug trajectory disabled for live builds
 
 <b>🖥️ UI & Menu Polish</b><br/>
 • Cleaner menu transitions and camera positioning<br/>
 • Backpack handling unified across systems<br/>
 • Improved panel color distinction (Premium clearly highlighted)<br/>
-• Lighting and post-processing tuned for clarity<br/><br/>
+• Lighting and post-processing tuned for clarity
 
 <b>📢 Pitchside Advertisements</b><br/>
 • New dynamic pitchside ads<br/>
 • Smooth animated transitions<br/>
-• Expanded variety of advertisement boards<br/><br/>
+• Expanded variety of advertisement boards
 
 <b>🛠️ Performance & Stability</b><br/>
 • Improved memory cleanup across UI systems<br/>
 • Fixed tooltip connection leaks<br/>
 • Removed obsolete assets and debug warnings<br/>
 • Improved profile loading reliability<br/>
-• Balanced skill move force calculations<br/><br/>
+• Balanced skill move force calculations
 
 <b>Summary</b><br/>
 This update introduces:<br/>
 • Real progression with meaningful rewards<br/>
 • A fully upgraded shop and premium system<br/>
-• Significantly improved and more realistic ball physics<br/><br/>
+• Significantly improved and more realistic ball physics
 
 More updates coming soon ⚽
