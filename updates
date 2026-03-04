@@ -5,109 +5,109 @@ premium content, UI polish, and significantly improved ball physics.</b>
 
 <b>🎁 NEW: Player Progression & Reward System</b>
 
-<b>🆙 Level-Up Rewards</b><br/>
-• Players now earn <b>rewards when leveling up</b><br/>
-• Milestone levels can grant <b>random cosmetic rewards</b><br/>
+<b>🆙 Level-Up Rewards</b>
+• Players now earn <b>rewards when leveling up</b>
+• Milestone levels can grant <b>random cosmetic rewards</b>
 • Rewards are clearly displayed on a redesigned end screen
 
-<b>🎉 New Reward Reveal Screen</b><br/>
-• Brand-new <b>reward reveal animations</b> at the end of matches<br/>
-Items now display:<br/>
-• Rarity color backgrounds<br/>
-• Rarity badges<br/>
-• Improved title rendering<br/>
+<b>🎉 New Reward Reveal Screen</b>
+• Brand-new <b>reward reveal animations</b> at the end of matches
+Items now display:
+• Rarity color backgrounds
+• Rarity badges
+• Improved title rendering
 • Cleaner animations and transitions
 
-<b>🎲 Random Item Drops</b><br/>
-• Random rewards now use a <b>weighted rarity system</b><br/>
+<b>🎲 Random Item Drops</b>
+• Random rewards now use a <b>weighted rarity system</b>
 • Certain items are excluded from random drops to preserve rarity
 
-<b>💰 Starting Economy Update</b><br/>
-• New players now start with <b>500 Cash</b><br/>
+<b>💰 Starting Economy Update</b>
+• New players now start with <b>500 Cash</b>
 • Economy and item ownership logic improved for reliability
 
 <b>🛒 Shop & Premium Store Overhaul</b>
 
-<b>🏪 Daily Rotating Shop</b><br/>
-• Shop rotates items daily using improved calculation logic<br/>
-• Weighted rarity system for fair rotation<br/>
+<b>🏪 Daily Rotating Shop</b>
+• Shop rotates items daily using improved calculation logic
+• Weighted rarity system for fair rotation
 • Ownership validation improved to prevent duplicate purchases
 
-<b>💎 Premium Store Added</b><br/>
-• New <b>Premium Store</b> for game passes and developer products<br/>
-• Improved item previews with character model display<br/>
-• Better hover effects and ownership indicators<br/>
+<b>💎 Premium Store Added</b>
+• New <b>Premium Store</b> for game passes and developer products
+• Improved item previews with character model display
+• Better hover effects and ownership indicators
 • Cleaner confirmation dialogs with preview support
 
-<b>🪙 Developer Product Support</b><br/>
-Developer product purchases now:<br/>
-• Process correctly<br/>
-• Grant coins instantly<br/>
+<b>🪙 Developer Product Support</b>
+Developer product purchases now:
+• Process correctly
+• Grant coins instantly
 • Validate securely server-side
 
 <b>👕 Customisation & Character Improvements</b>
 
-<b>🔢 Kit Number System</b><br/>
-• Players can now set their <b>Kit Number</b><br/>
-• Includes increment/decrement UI and confirmation system<br/>
+<b>🔢 Kit Number System</b>
+• Players can now set their <b>Kit Number</b>
+• Includes increment/decrement UI and confirmation system
 • Fully customizable
 
-<b>🎭 Celebration Previews</b><br/>
-• Celebrations can now be previewed in menu<br/>
-• Improved visibility handling during cinematics<br/>
+<b>🎭 Celebration Previews</b>
+• Celebrations can now be previewed in menu
+• Improved visibility handling during cinematics
 • Character properly restores after preview
 
-<b>🧢 Accessory Cleanup</b><br/>
+<b>🧢 Accessory Cleanup</b>
 • Non-essential accessories removed on spawn for 
 cleaner visuals and performance
 
-<b>🎮 Controller & Input Improvements</b><br/>
-• Improved <b>gamepad support</b><br/>
-• D-Pad tool switching<br/>
-• Proper PlayStation & Xbox input prompts<br/>
-• Cleaner tool activation handling<br/>
-• Refined set piece action bindings<br/>
+<b>🎮 Controller & Input Improvements</b>
+• Improved <b>gamepad support</b>
+• D-Pad tool switching
+• Proper PlayStation & Xbox input prompts
+• Cleaner tool activation handling
+• Refined set piece action bindings
 • Free kick and penalty prompts now display correctly
 
 <b>⚽ Major Ball Physics Upgrade</b>
 
-<b>🔧 Shot Tuning</b><br/>
-• Increased maximum shot power<br/>
-• Adjusted gravity scaling for low-angle shots<br/>
-• Reduced excessive spin for better balance<br/>
+<b>🔧 Shot Tuning</b>
+• Increased maximum shot power
+• Adjusted gravity scaling for low-angle shots
+• Reduced excessive spin for better balance
 • Improved ball rotation syncing
 
-<b>🧠 Smarter Foul Logic</b><br/>
+<b>🧠 Smarter Foul Logic</b>
 • Advantage and foul awarding now better account for ball ownership
 
-<b>🎥 Match & End Screen Improvements</b><br/>
-• Match timer consistency fixed<br/>
-• Scoreboard stability improved<br/>
-• Reward pages integrated into match completion flow<br/>
+<b>🎥 Match & End Screen Improvements</b>
+• Match timer consistency fixed
+• Scoreboard stability improved
+• Reward pages integrated into match completion flow
 • Debug trajectory disabled for live builds
 
-<b>🖥️ UI & Menu Polish</b><br/>
-• Cleaner menu transitions and camera positioning<br/>
-• Backpack handling unified across systems<br/>
-• Improved panel color distinction (Premium clearly highlighted)<br/>
+<b>🖥️ UI & Menu Polish</b>
+• Cleaner menu transitions and camera positioning
+• Backpack handling unified across systems
+• Improved panel color distinction (Premium clearly highlighted)
 • Lighting and post-processing tuned for clarity
 
-<b>📢 Pitchside Advertisements</b><br/>
-• New dynamic pitchside ads<br/>
-• Smooth animated transitions<br/>
+<b>📢 Pitchside Advertisements</b>
+• New dynamic pitchside ads
+• Smooth animated transitions
 • Expanded variety of advertisement boards
 
-<b>🛠️ Performance & Stability</b><br/>
-• Improved memory cleanup across UI systems<br/>
-• Fixed tooltip connection leaks<br/>
-• Removed obsolete assets and debug warnings<br/>
-• Improved profile loading reliability<br/>
+<b>🛠️ Performance & Stability</b>
+• Improved memory cleanup across UI systems
+• Fixed tooltip connection leaks
+• Removed obsolete assets and debug warnings
+• Improved profile loading reliability
 • Balanced skill move force calculations
 
-<b>Summary</b><br/>
-This update introduces:<br/>
-• Real progression with meaningful rewards<br/>
-• A fully upgraded shop and premium system<br/>
+<b>Summary</b>
+This update introduces:
+• Real progression with meaningful rewards
+• A fully upgraded shop and premium system
 • Significantly improved and more realistic ball physics
 
 More updates coming soon ⚽
