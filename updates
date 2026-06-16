@@ -1,7 +1,10 @@
 <font size="32" color="#FFD54A"><b>⚽ TK SOCCER – MAJOR UPDATE</b></font>
 <font size="15" color="#9A9A9A"><b>Version 0.8.0 (Pre-Alpha)</b></font>
 
-<i><font size="15" color="#C8C8C8">This update is all about competition, rewards, and premium perks — achievements to chase, global leaderboards to climb, daily login rewards, VIP boosts, a full cash economy, and a redesigned match end screen.</font></i>
+<i><font size="15" color="#C8C8C8">This update is all about competition, rewards, and premium perks —
+achievements to chase, global leaderboards to climb, daily login
+rewards, VIP boosts, a full cash economy, and a redesigned match
+end screen.</font></i>
 
 <font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
 
@@ -32,7 +35,8 @@
 
 <font size="17" color="#FFFFFF"><b>Timed Boosts</b></font>
 <font size="15" color="#D7D7D7"><font color="#5BC8FF">•</font> New 2x XP and 2x Cash boost products (30 min / 1 hr / 2 hr)
-<font color="#5BC8FF">•</font> Boost time is playtime-based — it pauses when you leave a server
+<font color="#5BC8FF">•</font> Boost time is playtime-based — the timer only ticks while you're
+in a server and freezes when you leave
 <font color="#5BC8FF">•</font> New on-screen Boost Timer showing your active boosts</font>
 
 <font size="23" color="#5DD55D"><b>💰 Cash Economy</b></font>
@@ -44,7 +48,8 @@
 <font size="23" color="#FF7A45"><b>⚔️ Matches</b></font>
 
 <font size="17" color="#FFFFFF"><b>MVP Cinematic</b></font>
-<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> New MVP cinematic spotlights the best player with dynamic camera work</font>
+<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> A new end-of-match MVP cinematic spotlights the match's best
+player with dynamic camera work</font>
 
 <font size="17" color="#FFFFFF"><b>Deeper Match Stats &amp; Ratings</b></font>
 <font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> New live Match Rating that reacts to your performance
@@ -65,8 +70,10 @@
 <font color="#C77DFF">•</font> Shop prices rebalanced for the new economy</font>
 
 <font size="23" color="#9FB3C8"><b>🛠️ Performance &amp; Stability</b></font>
-<font size="15" color="#D7D7D7"><font color="#9FB3C8">•</font> Rebuilt the match system into clean modular pieces for stability
-<font color="#9FB3C8">•</font> End screen reliability fixes — UI and reward pages render correctly
+<font size="15" color="#D7D7D7"><font color="#9FB3C8">•</font> Rebuilt the match system internals into clean modular pieces for
+better stability
+<font color="#9FB3C8">•</font> End screen reliability fixes (UI restore + all reward categories
+render correctly)
 <font color="#9FB3C8">•</font> Fixed out-of-bounds teleport positioning</font>
 
 <font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
@@ -86,7 +93,8 @@
 <font size="32" color="#FFD54A"><b>⚽ TK SOCCER – UPDATE</b></font>
 <font size="15" color="#9A9A9A"><b>Version 0.7.0 (Pre-Alpha)</b></font>
 
-<i><font size="15" color="#C8C8C8">This update focuses on progression, rewards, shop systems, premium content, UI polish, and significantly improved ball physics.</font></i>
+<i><font size="15" color="#C8C8C8">This update focuses on progression, rewards, shop systems,
+premium content, UI polish, and significantly improved ball physics.</font></i>
 
 <font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
 
@@ -145,7 +153,8 @@ Items now display:
 <font color="#C77DFF">•</font> Character properly restores after preview</font>
 
 <font size="17" color="#FFFFFF"><b>🧢 Accessory Cleanup</b></font>
-<font size="15" color="#D7D7D7"><font color="#C77DFF">•</font> Non-essential accessories removed on spawn for cleaner visuals</font>
+<font size="15" color="#D7D7D7"><font color="#C77DFF">•</font> Non-essential accessories removed on spawn for cleaner visuals
+and performance</font>
 
 <font size="23" color="#3FD1C7"><b>🎮 Controller &amp; Input Improvements</b></font>
 <font size="15" color="#D7D7D7"><font color="#3FD1C7">•</font> Improved <b>gamepad support</b>
