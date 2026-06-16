@@ -1,3 +1,83 @@
+<font size="42" color="#FFD54A"><b>⚽ TK SOCCER – MAJOR UPDATE</b></font>
+
+<i><font size="18" color="#C8C8C8">This update is all about competition, rewards, and premium perks — achievements to chase, global leaderboards to climb, daily login rewards, VIP boosts, a full cash economy, and a redesigned match end screen.</font></i>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="30" color="#FFD54A"><b>🏆 Progression &amp; Rewards</b></font>
+
+<font size="22" color="#FFFFFF"><b>Achievements &amp; Awards</b></font>
+<font size="18" color="#D7D7D7"><font color="#FFD54A">•</font> Brand-new Achievements system — complete challenges as you play
+<font color="#FFD54A">•</font> New Awards tab to track progress and claim rewards
+<font color="#FFD54A">•</font> Earn exclusive achievement titles
+<font color="#FFD54A">•</font> Chat notifications when you unlock and claim an achievement</font>
+
+<font size="22" color="#FFFFFF"><b>Global Leaderboards</b></font>
+<font size="18" color="#D7D7D7"><font color="#FFD54A">•</font> Compete on global leaderboards that persist across servers
+<font color="#FFD54A">•</font> Multiple ranking categories
+<font color="#FFD54A">•</font> See how you stack up against every other player</font>
+
+<font size="22" color="#FFFFFF"><b>Daily Login Rewards</b></font>
+<font size="18" color="#D7D7D7"><font color="#FFD54A">•</font> New 7-day login reward track — log in daily to build your streak
+<font color="#FFD54A">•</font> Escalating rewards as the week goes on
+<font color="#FFD54A">•</font> Fully server-validated so progress is secure</font>
+
+<font size="30" color="#5BC8FF"><b>💎 Premium: VIP &amp; Boosts</b></font>
+
+<font size="22" color="#FFFFFF"><b>VIP Gamepass</b></font>
+<font size="18" color="#D7D7D7"><font color="#5BC8FF">•</font> Permanent 2x XP and 2x Cash while owned
+<font color="#5BC8FF">•</font> Exclusive 👑 VIP chat tag
+<font color="#5BC8FF">•</font> Perks apply instantly on purchase — no rejoin needed</font>
+
+<font size="22" color="#FFFFFF"><b>Timed Boosts</b></font>
+<font size="18" color="#D7D7D7"><font color="#5BC8FF">•</font> New 2x XP and 2x Cash boost products (30 min / 1 hr / 2 hr)
+<font color="#5BC8FF">•</font> Boost time is playtime-based — the timer only ticks while you're in a server and freezes when you leave
+<font color="#5BC8FF">•</font> New on-screen Boost Timer showing your active boosts</font>
+
+<font size="30" color="#5DD55D"><b>💰 Cash Economy</b></font>
+<font size="18" color="#D7D7D7"><font color="#5DD55D">•</font> Earn cash by playing — goals, assists, completing matches, and winning
+<font color="#5DD55D">•</font> Satisfying cash pop-ups when you earn
+<font color="#5DD55D">•</font> Cash rewards on daily logins and achievements too
+<font color="#5DD55D">•</font> Spend it all in the shop</font>
+
+<font size="30" color="#FF7A45"><b>⚔️ Matches</b></font>
+
+<font size="22" color="#FFFFFF"><b>MVP Cinematic</b></font>
+<font size="18" color="#D7D7D7"><font color="#FF7A45">•</font> A new end-of-match MVP cinematic spotlights the match's best player with dynamic camera work</font>
+
+<font size="22" color="#FFFFFF"><b>Deeper Match Stats &amp; Ratings</b></font>
+<font size="18" color="#D7D7D7"><font color="#FF7A45">•</font> New live Match Rating that reacts to your performance
+<font color="#FF7A45">•</font> Now tracking fouls, own goals, dispossessions, giveaways, and goals conceded
+<font color="#FF7A45">•</font> Smarter, more consistent rating baseline</font>
+
+<font size="22" color="#FFFFFF"><b>Redesigned End Screen</b></font>
+<font size="18" color="#D7D7D7"><font color="#FF7A45">•</font> Match breakdown now shows XP and Cash side by side for every action
+<font color="#FF7A45">•</font> A single combined match total
+<font color="#FF7A45">•</font> VIP / Boost bonus clearly itemised so you can see your 2x at work</font>
+
+<font size="22" color="#FFFFFF"><b>Match Restart Voting</b></font>
+<font size="18" color="#D7D7D7"><font color="#FF7A45">•</font> Players can now vote to restart a match (with admin controls)</font>
+
+<font size="30" color="#C77DFF"><b>🎨 Cosmetics &amp; Customisation</b></font>
+<font size="18" color="#D7D7D7"><font color="#C77DFF">•</font> New solid-colour Kit Text rewards from levelling up
+<font color="#C77DFF">•</font> My Player now sorts cosmetics by rarity
+<font color="#C77DFF">•</font> Shop prices rebalanced for the new economy</font>
+
+<font size="30" color="#9FB3C8"><b>🛠️ Performance &amp; Stability</b></font>
+<font size="18" color="#D7D7D7"><font color="#9FB3C8">•</font> Rebuilt the match system internals into clean modular pieces for better stability
+<font color="#9FB3C8">•</font> End screen reliability fixes (UI restore + all reward categories render correctly)
+<font color="#9FB3C8">•</font> Fixed out-of-bounds teleport positioning</font>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="30" color="#FFD54A"><b>Summary</b></font>
+<font size="18" color="#D7D7D7">This update brings:
+<font color="#FFD54A">•</font> Achievements, global leaderboards, and daily login rewards
+<font color="#FFD54A">•</font> VIP perks, timed boosts, and a full cash economy
+<font color="#FFD54A">•</font> MVP cinematics, deeper match stats, and a redesigned end screen</font>
+
+<i><font size="20" color="#FFD54A"><b>More coming soon ⚽</b></font></i>
+-----------------------------------------------------------
 <b>TK Soccer — Version 0.7.0 (Pre-Alpha)</b>
 
 This update focuses on <b>progression, rewards, shop systems, 
