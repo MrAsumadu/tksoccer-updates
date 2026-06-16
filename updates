@@ -1,193 +1,200 @@
-<font size="42" color="#FFD54A"><b>⚽ TK SOCCER – MAJOR UPDATE</b></font>
+<font size="32" color="#FFD54A"><b>⚽ TK SOCCER – MAJOR UPDATE</b></font>
+<font size="15" color="#9A9A9A"><b>Version 0.8.0 (Pre-Alpha)</b></font>
 
-<i><font size="18" color="#C8C8C8">This update is all about competition, rewards, and premium perks — achievements to chase, global leaderboards to climb, daily login rewards, VIP boosts, a full cash economy, and a redesigned match end screen.</font></i>
+<i><font size="15" color="#C8C8C8">This update is all about competition, rewards, and premium perks — achievements to chase, global leaderboards to climb, daily login rewards, VIP boosts, a full cash economy, and a redesigned match end screen.</font></i>
 
 <font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
 
-<font size="30" color="#FFD54A"><b>🏆 Progression &amp; Rewards</b></font>
+<font size="23" color="#FFD54A"><b>🏆 Progression &amp; Rewards</b></font>
 
-<font size="22" color="#FFFFFF"><b>Achievements &amp; Awards</b></font>
-<font size="18" color="#D7D7D7"><font color="#FFD54A">•</font> Brand-new Achievements system — complete challenges as you play
+<font size="17" color="#FFFFFF"><b>Achievements &amp; Awards</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> Brand-new Achievements system — complete challenges as you play
 <font color="#FFD54A">•</font> New Awards tab to track progress and claim rewards
 <font color="#FFD54A">•</font> Earn exclusive achievement titles
 <font color="#FFD54A">•</font> Chat notifications when you unlock and claim an achievement</font>
 
-<font size="22" color="#FFFFFF"><b>Global Leaderboards</b></font>
-<font size="18" color="#D7D7D7"><font color="#FFD54A">•</font> Compete on global leaderboards that persist across servers
+<font size="17" color="#FFFFFF"><b>Global Leaderboards</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> Compete on global leaderboards that persist across servers
 <font color="#FFD54A">•</font> Multiple ranking categories
 <font color="#FFD54A">•</font> See how you stack up against every other player</font>
 
-<font size="22" color="#FFFFFF"><b>Daily Login Rewards</b></font>
-<font size="18" color="#D7D7D7"><font color="#FFD54A">•</font> New 7-day login reward track — log in daily to build your streak
+<font size="17" color="#FFFFFF"><b>Daily Login Rewards</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> New 7-day login reward track — log in daily to build your streak
 <font color="#FFD54A">•</font> Escalating rewards as the week goes on
 <font color="#FFD54A">•</font> Fully server-validated so progress is secure</font>
 
-<font size="30" color="#5BC8FF"><b>💎 Premium: VIP &amp; Boosts</b></font>
+<font size="23" color="#5BC8FF"><b>💎 Premium: VIP &amp; Boosts</b></font>
 
-<font size="22" color="#FFFFFF"><b>VIP Gamepass</b></font>
-<font size="18" color="#D7D7D7"><font color="#5BC8FF">•</font> Permanent 2x XP and 2x Cash while owned
+<font size="17" color="#FFFFFF"><b>VIP Gamepass</b></font>
+<font size="15" color="#D7D7D7"><font color="#5BC8FF">•</font> Permanent 2x XP and 2x Cash while owned
 <font color="#5BC8FF">•</font> Exclusive 👑 VIP chat tag
 <font color="#5BC8FF">•</font> Perks apply instantly on purchase — no rejoin needed</font>
 
-<font size="22" color="#FFFFFF"><b>Timed Boosts</b></font>
-<font size="18" color="#D7D7D7"><font color="#5BC8FF">•</font> New 2x XP and 2x Cash boost products (30 min / 1 hr / 2 hr)
+<font size="17" color="#FFFFFF"><b>Timed Boosts</b></font>
+<font size="15" color="#D7D7D7"><font color="#5BC8FF">•</font> New 2x XP and 2x Cash boost products (30 min / 1 hr / 2 hr)
 <font color="#5BC8FF">•</font> Boost time is playtime-based — the timer only ticks while you're in a server and freezes when you leave
 <font color="#5BC8FF">•</font> New on-screen Boost Timer showing your active boosts</font>
 
-<font size="30" color="#5DD55D"><b>💰 Cash Economy</b></font>
-<font size="18" color="#D7D7D7"><font color="#5DD55D">•</font> Earn cash by playing — goals, assists, completing matches, and winning
+<font size="23" color="#5DD55D"><b>💰 Cash Economy</b></font>
+<font size="15" color="#D7D7D7"><font color="#5DD55D">•</font> Earn cash by playing — goals, assists, completing matches, and winning
 <font color="#5DD55D">•</font> Satisfying cash pop-ups when you earn
 <font color="#5DD55D">•</font> Cash rewards on daily logins and achievements too
 <font color="#5DD55D">•</font> Spend it all in the shop</font>
 
-<font size="30" color="#FF7A45"><b>⚔️ Matches</b></font>
+<font size="23" color="#FF7A45"><b>⚔️ Matches</b></font>
 
-<font size="22" color="#FFFFFF"><b>MVP Cinematic</b></font>
-<font size="18" color="#D7D7D7"><font color="#FF7A45">•</font> A new end-of-match MVP cinematic spotlights the match's best player with dynamic camera work</font>
+<font size="17" color="#FFFFFF"><b>MVP Cinematic</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> A new end-of-match MVP cinematic spotlights the match's best player with dynamic camera work</font>
 
-<font size="22" color="#FFFFFF"><b>Deeper Match Stats &amp; Ratings</b></font>
-<font size="18" color="#D7D7D7"><font color="#FF7A45">•</font> New live Match Rating that reacts to your performance
+<font size="17" color="#FFFFFF"><b>Deeper Match Stats &amp; Ratings</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> New live Match Rating that reacts to your performance
 <font color="#FF7A45">•</font> Now tracking fouls, own goals, dispossessions, giveaways, and goals conceded
 <font color="#FF7A45">•</font> Smarter, more consistent rating baseline</font>
 
-<font size="22" color="#FFFFFF"><b>Redesigned End Screen</b></font>
-<font size="18" color="#D7D7D7"><font color="#FF7A45">•</font> Match breakdown now shows XP and Cash side by side for every action
+<font size="17" color="#FFFFFF"><b>Redesigned End Screen</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> Match breakdown now shows XP and Cash side by side for every action
 <font color="#FF7A45">•</font> A single combined match total
 <font color="#FF7A45">•</font> VIP / Boost bonus clearly itemised so you can see your 2x at work</font>
 
-<font size="22" color="#FFFFFF"><b>Match Restart Voting</b></font>
-<font size="18" color="#D7D7D7"><font color="#FF7A45">•</font> Players can now vote to restart a match (with admin controls)</font>
+<font size="17" color="#FFFFFF"><b>Match Restart Voting</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> Players can now vote to restart a match (with admin controls)</font>
 
-<font size="30" color="#C77DFF"><b>🎨 Cosmetics &amp; Customisation</b></font>
-<font size="18" color="#D7D7D7"><font color="#C77DFF">•</font> New solid-colour Kit Text rewards from levelling up
+<font size="23" color="#C77DFF"><b>🎨 Cosmetics &amp; Customisation</b></font>
+<font size="15" color="#D7D7D7"><font color="#C77DFF">•</font> New solid-colour Kit Text rewards from levelling up
 <font color="#C77DFF">•</font> My Player now sorts cosmetics by rarity
 <font color="#C77DFF">•</font> Shop prices rebalanced for the new economy</font>
 
-<font size="30" color="#9FB3C8"><b>🛠️ Performance &amp; Stability</b></font>
-<font size="18" color="#D7D7D7"><font color="#9FB3C8">•</font> Rebuilt the match system internals into clean modular pieces for better stability
+<font size="23" color="#9FB3C8"><b>🛠️ Performance &amp; Stability</b></font>
+<font size="15" color="#D7D7D7"><font color="#9FB3C8">•</font> Rebuilt the match system internals into clean modular pieces for better stability
 <font color="#9FB3C8">•</font> End screen reliability fixes (UI restore + all reward categories render correctly)
 <font color="#9FB3C8">•</font> Fixed out-of-bounds teleport positioning</font>
 
 <font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
 
-<font size="30" color="#FFD54A"><b>Summary</b></font>
-<font size="18" color="#D7D7D7">This update brings:
+<font size="23" color="#FFD54A"><b>Summary</b></font>
+<font size="15" color="#D7D7D7">This update brings:
 <font color="#FFD54A">•</font> Achievements, global leaderboards, and daily login rewards
 <font color="#FFD54A">•</font> VIP perks, timed boosts, and a full cash economy
 <font color="#FFD54A">•</font> MVP cinematics, deeper match stats, and a redesigned end screen</font>
 
-<i><font size="20" color="#FFD54A"><b>More coming soon ⚽</b></font></i>
------------------------------------------------------------
-<b>TK Soccer — Version 0.7.0 (Pre-Alpha)</b>
+<i><font size="17" color="#FFD54A"><b>More coming soon ⚽</b></font></i>
 
-This update focuses on <b>progression, rewards, shop systems, 
-premium content, UI polish, and significantly improved ball physics.</b>
 
-<b>🎁 NEW: Player Progression & Reward System</b>
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
 
-<b>🆙 Level-Up Rewards</b>
-• Players now earn <b>rewards when leveling up</b>
-• Milestone levels can grant <b>random cosmetic rewards</b>
-• Rewards are clearly displayed on a redesigned end screen
+<font size="32" color="#FFD54A"><b>⚽ TK SOCCER – UPDATE</b></font>
+<font size="15" color="#9A9A9A"><b>Version 0.7.0 (Pre-Alpha)</b></font>
 
-<b>🎉 New Reward Reveal Screen</b>
-• Brand-new <b>reward reveal animations</b> at the end of matches
+<i><font size="15" color="#C8C8C8">This update focuses on progression, rewards, shop systems, premium content, UI polish, and significantly improved ball physics.</font></i>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="23" color="#FFD54A"><b>🎁 Player Progression &amp; Reward System</b></font>
+
+<font size="17" color="#FFFFFF"><b>🆙 Level-Up Rewards</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> Players now earn <b>rewards when leveling up</b>
+<font color="#FFD54A">•</font> Milestone levels can grant <b>random cosmetic rewards</b>
+<font color="#FFD54A">•</font> Rewards are clearly displayed on a redesigned end screen</font>
+
+<font size="17" color="#FFFFFF"><b>🎉 New Reward Reveal Screen</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> Brand-new <b>reward reveal animations</b> at the end of matches
 Items now display:
-• Rarity color backgrounds
-• Rarity badges
-• Improved title rendering
-• Cleaner animations and transitions
+<font color="#FFD54A">•</font> Rarity color backgrounds
+<font color="#FFD54A">•</font> Rarity badges
+<font color="#FFD54A">•</font> Improved title rendering
+<font color="#FFD54A">•</font> Cleaner animations and transitions</font>
 
-<b>🎲 Random Item Drops</b>
-• Random rewards now use a <b>weighted rarity system</b>
-• Certain items are excluded from random drops to preserve rarity
+<font size="17" color="#FFFFFF"><b>🎲 Random Item Drops</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> Random rewards now use a <b>weighted rarity system</b>
+<font color="#FFD54A">•</font> Certain items are excluded from random drops to preserve rarity</font>
 
-<b>💰 Starting Economy Update</b>
-• New players now start with <b>500 Cash</b>
-• Economy and item ownership logic improved for reliability
+<font size="17" color="#FFFFFF"><b>💰 Starting Economy Update</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> New players now start with <b>500 Cash</b>
+<font color="#FFD54A">•</font> Economy and item ownership logic improved for reliability</font>
 
-<b>🛒 Shop & Premium Store Overhaul</b>
+<font size="23" color="#5BC8FF"><b>🛒 Shop &amp; Premium Store Overhaul</b></font>
 
-<b>🏪 Daily Rotating Shop</b>
-• Shop rotates items daily using improved calculation logic
-• Weighted rarity system for fair rotation
-• Ownership validation improved to prevent duplicate purchases
+<font size="17" color="#FFFFFF"><b>🏪 Daily Rotating Shop</b></font>
+<font size="15" color="#D7D7D7"><font color="#5BC8FF">•</font> Shop rotates items daily using improved calculation logic
+<font color="#5BC8FF">•</font> Weighted rarity system for fair rotation
+<font color="#5BC8FF">•</font> Ownership validation improved to prevent duplicate purchases</font>
 
-<b>💎 Premium Store Added</b>
-• New <b>Premium Store</b> for game passes and developer products
-• Improved item previews with character model display
-• Better hover effects and ownership indicators
-• Cleaner confirmation dialogs with preview support
+<font size="17" color="#FFFFFF"><b>💎 Premium Store Added</b></font>
+<font size="15" color="#D7D7D7"><font color="#5BC8FF">•</font> New <b>Premium Store</b> for game passes and developer products
+<font color="#5BC8FF">•</font> Improved item previews with character model display
+<font color="#5BC8FF">•</font> Better hover effects and ownership indicators
+<font color="#5BC8FF">•</font> Cleaner confirmation dialogs with preview support</font>
 
-<b>🪙 Developer Product Support</b>
-Developer product purchases now:
-• Process correctly
-• Grant coins instantly
-• Validate securely server-side
+<font size="17" color="#FFFFFF"><b>🪙 Developer Product Support</b></font>
+<font size="15" color="#D7D7D7">Developer product purchases now:
+<font color="#5BC8FF">•</font> Process correctly
+<font color="#5BC8FF">•</font> Grant coins instantly
+<font color="#5BC8FF">•</font> Validate securely server-side</font>
 
-<b>👕 Customisation & Character Improvements</b>
+<font size="23" color="#C77DFF"><b>👕 Customisation &amp; Character Improvements</b></font>
 
-<b>🔢 Kit Number System</b>
-• Players can now set their <b>Kit Number</b>
-• Includes increment/decrement UI and confirmation system
-• Fully customizable
+<font size="17" color="#FFFFFF"><b>🔢 Kit Number System</b></font>
+<font size="15" color="#D7D7D7"><font color="#C77DFF">•</font> Players can now set their <b>Kit Number</b>
+<font color="#C77DFF">•</font> Includes increment/decrement UI and confirmation system
+<font color="#C77DFF">•</font> Fully customizable</font>
 
-<b>🎭 Celebration Previews</b>
-• Celebrations can now be previewed in menu
-• Improved visibility handling during cinematics
-• Character properly restores after preview
+<font size="17" color="#FFFFFF"><b>🎭 Celebration Previews</b></font>
+<font size="15" color="#D7D7D7"><font color="#C77DFF">•</font> Celebrations can now be previewed in menu
+<font color="#C77DFF">•</font> Improved visibility handling during cinematics
+<font color="#C77DFF">•</font> Character properly restores after preview</font>
 
-<b>🧢 Accessory Cleanup</b>
-• Non-essential accessories removed on spawn for 
-cleaner visuals and performance
+<font size="17" color="#FFFFFF"><b>🧢 Accessory Cleanup</b></font>
+<font size="15" color="#D7D7D7"><font color="#C77DFF">•</font> Non-essential accessories removed on spawn for cleaner visuals and performance</font>
 
-<b>🎮 Controller & Input Improvements</b>
-• Improved <b>gamepad support</b>
-• D-Pad tool switching
-• Proper PlayStation & Xbox input prompts
-• Cleaner tool activation handling
-• Refined set piece action bindings
-• Free kick and penalty prompts now display correctly
+<font size="23" color="#3FD1C7"><b>🎮 Controller &amp; Input Improvements</b></font>
+<font size="15" color="#D7D7D7"><font color="#3FD1C7">•</font> Improved <b>gamepad support</b>
+<font color="#3FD1C7">•</font> D-Pad tool switching
+<font color="#3FD1C7">•</font> Proper PlayStation &amp; Xbox input prompts
+<font color="#3FD1C7">•</font> Cleaner tool activation handling
+<font color="#3FD1C7">•</font> Refined set piece action bindings
+<font color="#3FD1C7">•</font> Free kick and penalty prompts now display correctly</font>
 
-<b>⚽ Major Ball Physics Upgrade</b>
+<font size="23" color="#5DD55D"><b>⚽ Major Ball Physics Upgrade</b></font>
 
-<b>🔧 Shot Tuning</b>
-• Increased maximum shot power
-• Adjusted gravity scaling for low-angle shots
-• Reduced excessive spin for better balance
-• Improved ball rotation syncing
+<font size="17" color="#FFFFFF"><b>🔧 Shot Tuning</b></font>
+<font size="15" color="#D7D7D7"><font color="#5DD55D">•</font> Increased maximum shot power
+<font color="#5DD55D">•</font> Adjusted gravity scaling for low-angle shots
+<font color="#5DD55D">•</font> Reduced excessive spin for better balance
+<font color="#5DD55D">•</font> Improved ball rotation syncing</font>
 
-<b>🧠 Smarter Foul Logic</b>
-• Advantage and foul awarding now better account for ball ownership
+<font size="17" color="#FFFFFF"><b>🧠 Smarter Foul Logic</b></font>
+<font size="15" color="#D7D7D7"><font color="#5DD55D">•</font> Advantage and foul awarding now better account for ball ownership</font>
 
-<b>🎥 Match & End Screen Improvements</b>
-• Match timer consistency fixed
-• Scoreboard stability improved
-• Reward pages integrated into match completion flow
-• Debug trajectory disabled for live builds
+<font size="23" color="#FF7A45"><b>🎥 Match &amp; End Screen Improvements</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> Match timer consistency fixed
+<font color="#FF7A45">•</font> Scoreboard stability improved
+<font color="#FF7A45">•</font> Reward pages integrated into match completion flow
+<font color="#FF7A45">•</font> Debug trajectory disabled for live builds</font>
 
-<b>🖥️ UI & Menu Polish</b>
-• Cleaner menu transitions and camera positioning
-• Backpack handling unified across systems
-• Improved panel color distinction (Premium clearly highlighted)
-• Lighting and post-processing tuned for clarity
+<font size="23" color="#FF6FB5"><b>🖥️ UI &amp; Menu Polish</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF6FB5">•</font> Cleaner menu transitions and camera positioning
+<font color="#FF6FB5">•</font> Backpack handling unified across systems
+<font color="#FF6FB5">•</font> Improved panel color distinction (Premium clearly highlighted)
+<font color="#FF6FB5">•</font> Lighting and post-processing tuned for clarity</font>
 
-<b>📢 Pitchside Advertisements</b>
-• New dynamic pitchside ads
-• Smooth animated transitions
-• Expanded variety of advertisement boards
+<font size="23" color="#FFB347"><b>📢 Pitchside Advertisements</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFB347">•</font> New dynamic pitchside ads
+<font color="#FFB347">•</font> Smooth animated transitions
+<font color="#FFB347">•</font> Expanded variety of advertisement boards</font>
 
-<b>🛠️ Performance & Stability</b>
-• Improved memory cleanup across UI systems
-• Fixed tooltip connection leaks
-• Removed obsolete assets and debug warnings
-• Improved profile loading reliability
-• Balanced skill move force calculations
+<font size="23" color="#9FB3C8"><b>🛠️ Performance &amp; Stability</b></font>
+<font size="15" color="#D7D7D7"><font color="#9FB3C8">•</font> Improved memory cleanup across UI systems
+<font color="#9FB3C8">•</font> Fixed tooltip connection leaks
+<font color="#9FB3C8">•</font> Removed obsolete assets and debug warnings
+<font color="#9FB3C8">•</font> Improved profile loading reliability
+<font color="#9FB3C8">•</font> Balanced skill move force calculations</font>
 
-<b>Summary</b>
-This update introduces:
-• Real progression with meaningful rewards
-• A fully upgraded shop and premium system
-• Significantly improved and more realistic ball physics
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
 
-More updates coming soon ⚽
+<font size="23" color="#FFD54A"><b>Summary</b></font>
+<font size="15" color="#D7D7D7">This update introduces:
+<font color="#FFD54A">•</font> Real progression with meaningful rewards
+<font color="#FFD54A">•</font> A fully upgraded shop and premium system
+<font color="#FFD54A">•</font> Significantly improved and more realistic ball physics</font>
+
+<i><font size="17" color="#FFD54A"><b>More updates coming soon ⚽</b></font></i>
