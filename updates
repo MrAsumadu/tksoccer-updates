@@ -1,4 +1,105 @@
 <font size="32" color="#FFD54A"><b>⚽ TK SOCCER – MAJOR UPDATE</b></font>
+<font size="15" color="#9A9A9A"><b>Version 0.9.0 (Pre-Alpha)</b></font>
+
+<i><font size="15" color="#C8C8C8">This update is all about the moments — instant goal replays to
+relive your best strikes, promo codes, win streaks, redesigned
+player profiles, smarter keepers and referees, plus a big pass
+on balance and stability.</font></i>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="23" color="#FF5C7A"><b>🎥 Goal Replays</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF5C7A">•</font> Brand-new instant replay system — every goal is now
+recorded and played back
+<font color="#FF5C7A">•</font> Dynamic replay camera work to relive your best strikes
+<font color="#FF5C7A">•</font> Replays woven right into the match flow and celebration
+timing
+<font color="#FF5C7A">•</font> Full client + server recording so replays stay smooth
+and in sync</font>
+
+<font size="23" color="#FFD54A"><b>🏆 Progression &amp; Rewards</b></font>
+
+<font size="17" color="#FFFFFF"><b>Promo Codes</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> Brand-new promo code redemption system
+<font color="#FFD54A">•</font> Redeem codes for rewards — including XP &amp; Cash boosts
+<font color="#FFD54A">•</font> Server-validated with usage tracking so codes can't be
+reused</font>
+
+<font size="17" color="#FFFFFF"><b>Win Streaks</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> Win streaks are now tracked as you rack up victories
+<font color="#FFD54A">•</font> New floating win-streak badge above your player title,
+updating in real time
+<font color="#FFD54A">•</font> Win streaks now shown for the MVP in the match awards</font>
+
+<font size="23" color="#5BC8FF"><b>👤 Social &amp; Profiles</b></font>
+<font size="15" color="#D7D7D7"><font color="#5BC8FF">•</font> Click any player in the player list to open their
+profile card
+<font color="#5BC8FF">•</font> Redesigned, cleaner player profile
+<font color="#5BC8FF">•</font> Profile card opens neatly at your cursor
+<font color="#5BC8FF">•</font> New PlayerList icon and toggle added to the topbar</font>
+
+<font size="23" color="#FF7A45"><b>🧤 Keepers &amp; Referee</b></font>
+
+<font size="17" color="#FFFFFF"><b>Goalkeeping</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> Goalkeepers can now dive while inside the goal (new
+"InGoal" status) — no more getting stuck
+<font color="#FF7A45">•</font> New "InGoalBox" status so diving and grabbing work
+properly inside your own box
+<font color="#FF7A45">•</font> Goalkeeper status now reapplies on respawn and when
+joining a team</font>
+
+<font size="17" color="#FFFFFF"><b>Smarter Referee</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> Tackles from behind are now always a straight foul —
+no advantage
+<font color="#FF7A45">•</font> Front-on fouls now play advantage if you keep the ball
+<font color="#FF7A45">•</font> Standing tackles no longer foul — mistime one and you
+just whiff
+<font color="#FF7A45">•</font> New tackled animation when you're brought down by a
+direct foul</font>
+
+<font size="23" color="#3FD1C7"><b>🔔 Quality of Life</b></font>
+<font size="15" color="#D7D7D7"><font color="#3FD1C7">•</font> Notification badges added to Career Stats and Shop tiles
+<font color="#3FD1C7">•</font> Unclaimed achievement counts now surface so you never
+miss a reward
+<font color="#3FD1C7">•</font> Shop now remembers the last rotation day you saw
+<font color="#3FD1C7">•</font> Faster, cached product loading with proper loading states</font>
+
+<font size="23" color="#5DD55D"><b>⚖️ Balance &amp; Fairness</b></font>
+<font size="15" color="#D7D7D7"><font color="#5DD55D">•</font> Rebalanced XP curve, with milestone rewards converted
+to Cash
+<font color="#5DD55D">•</font> Fixed assist attribution so the right player gets credited
+<font color="#5DD55D">•</font> New team-balancing logic to stop uneven teams when
+players switch sides</font>
+
+<font size="23" color="#9FB3C8"><b>🛠️ Performance &amp; Stability</b></font>
+<font size="15" color="#D7D7D7"><font color="#9FB3C8">•</font> More reliable purchases — receipt retries can no longer
+grant the same product twice
+<font color="#9FB3C8">•</font> Celebration cinematics hardened so a bad celebration
+can't lock up your HUD
+<font color="#9FB3C8">•</font> MVP and celebration cinematics now clean up the HUD and
+backpack properly
+<font color="#9FB3C8">•</font> Fixed a bug in the "Team is full" check when joining sides
+<font color="#9FB3C8">•</font> Added error handling and recovery for match flow and
+set pieces
+<font color="#9FB3C8">•</font> Cut idle-ball server overhead for smoother performance
+<font color="#9FB3C8">•</font> Camera fixes — clamped shake on frame hitches and proper
+camera restore after cutscenes
+<font color="#9FB3C8">•</font> Daily rewards now correctly skipped in the Practice place</font>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="23" color="#FFD54A"><b>Summary</b></font>
+<font size="15" color="#D7D7D7">This update brings:
+<font color="#FFD54A">•</font> Instant goal replays with cinematic camera work
+<font color="#FFD54A">•</font> Promo codes, win streaks, and redesigned player profiles
+<font color="#FFD54A">•</font> Smarter goalkeepers and referees, plus balance and
+stability fixes</font>
+
+<i><font size="17" color="#FFD54A"><b>More coming soon ⚽</b></font></i>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="32" color="#FFD54A"><b>⚽ TK SOCCER – MAJOR UPDATE</b></font>
 <font size="15" color="#9A9A9A"><b>Version 0.8.0 (Pre-Alpha)</b></font>
 
 <i><font size="15" color="#C8C8C8">This update is all about competition, rewards, and premium perks —
