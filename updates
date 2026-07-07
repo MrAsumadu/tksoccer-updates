@@ -1,3 +1,62 @@
+<font size="32" color="#FFD54A"><b>⚽ TK SOCCER – UPDATE</b></font>
+<font size="15" color="#9A9A9A"><b>Version 0.9.1 (Pre-Alpha)</b></font>
+
+<i><font size="15" color="#C8C8C8">A follow-up patch — a new Starter Pack, Shift Lock on mobile,
+smarter AFK handling, a peek at what's coming next, and a big
+round of gameplay fixes.</font></i>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="23" color="#5BC8FF"><b>🎁 Starter Pack</b></font>
+<font size="15" color="#D7D7D7"><font color="#5BC8FF">•</font> New one-time Starter Pack offer to kick off your
+journey
+<font color="#5BC8FF">•</font> Shown in your menu with clear item previews</font>
+
+<font size="23" color="#3FD1C7"><b>📱 Shift Lock on Mobile</b></font>
+<font size="15" color="#D7D7D7"><font color="#3FD1C7">•</font> Shift Lock now works on touch devices
+<font color="#3FD1C7">•</font> New on-screen Shift Lock button for precise dribbling
+on mobile</font>
+
+<font size="23" color="#5DD55D"><b>💤 AFK Handling</b></font>
+<font size="15" color="#D7D7D7"><font color="#5DD55D">•</font> Ball owners who go idle are now tracked and time out,
+so a match can't stall because someone's AFK on the ball</font>
+
+<font size="23" color="#C77DFF"><b>⏳ Coming Soon</b></font>
+<font size="15" color="#D7D7D7"><font color="#C77DFF">•</font> Futsal and Leagues buttons added with a "Coming Soon"
+teaser — new modes on the way 👀</font>
+
+<font size="23" color="#FF7A45"><b>⚽ Gameplay Fixes</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> You can now win the ball straight from kickoff
+<font color="#FF7A45">•</font> Fixed dribbled balls floating or dying early
+<font color="#FF7A45">•</font> Fixed a tackle-velocity ownership race and a stuck
+set-piece flag from intermission fouls
+<font color="#FF7A45">•</font> Set pieces no longer hang if the ball is destroyed
+mid-set-piece
+<font color="#FF7A45">•</font> Fixed goal announcements crediting the wrong assister
+<font color="#FF7A45">•</font> Smarter, context-aware camera handling</font>
+
+<font size="23" color="#FFD54A"><b>🎓 Tutorial</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> Clearer tackling instructions
+<font color="#FFD54A">•</font> Kickoffs no longer mislabelled as set-piece instructions</font>
+
+<font size="23" color="#9FB3C8"><b>🛠️ Performance &amp; Stability</b></font>
+<font size="15" color="#D7D7D7"><font color="#9FB3C8">•</font> Boost timer keeps ticking correctly even if a
+background tick errors</font>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="23" color="#FFD54A"><b>Summary</b></font>
+<font size="15" color="#D7D7D7">This update brings:
+<font color="#FFD54A">•</font> A new Starter Pack and mobile Shift Lock
+<font color="#FFD54A">•</font> AFK handling and a Futsal / Leagues teaser
+<font color="#FFD54A">•</font> A big round of gameplay and stability fixes</font>
+
+<i><font size="17" color="#FFD54A"><b>More coming soon ⚽</b></font></i>
+
+
+<font color="#2A2A2A">════════════════════════════</font>
+
+
 <font size="32" color="#FFD54A"><b>⚽ TK SOCCER – MAJOR UPDATE</b></font>
 <font size="15" color="#9A9A9A"><b>Version 0.9.0 (Pre-Alpha)</b></font>
 
