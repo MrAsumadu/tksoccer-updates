@@ -89,6 +89,11 @@ through the MVP cinematic
 <font color="#FF6FB5">•</font> Boost timer moved for better
 visibility</font>
 
+<font size="23" color="#3FD1C7"><b>⚖️ Balance</b></font>
+<font size="15" color="#D7D7D7"><font color="#3FD1C7">•</font> Matches are now 4 minutes long, down
+from 5
+<font color="#3FD1C7">•</font> Levelling curve lowered — finish and
+win a match to reach level 2</font>
 <font size="23" color="#9FB3C8"><b>🛠️ Fixes &amp; Stability</b></font>
 <font size="15" color="#D7D7D7"><font color="#9FB3C8">•</font> Fixed the scoreboard never appearing
 <font color="#9FB3C8">•</font> Fixed keeper ball-holding and actions
@@ -101,7 +106,9 @@ cutscene
 properly
 <font color="#9FB3C8">•</font> Fixed a rare curve error on passes
 <font color="#9FB3C8">•</font> More consistent character sizes across
-cinematics</font>
+cinematics
+<font color="#9FB3C8">•</font> The Skip button is now hidden during
+tutorial reading steps</font>
 
 <font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
 
@@ -113,7 +120,9 @@ broadcast-style presentation
 <font color="#FFD54A">•</font> Skill-move iframes and real tackle
 counterplay
 <font color="#FFD54A">•</font> Group bonuses, invites and a big UI
-polish pass</font>
+polish pass
+<font color="#FFD54A">•</font> Shorter 4-minute matches and faster
+early levelling</font>
 
 <i><font size="17" color="#FFD54A"><b>More coming soon ⚽</b></font></i>
 
