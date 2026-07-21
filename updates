@@ -1,5 +1,88 @@
 <font size="32" color="#FFD54A"><b>⚽ TK SOCCER
 MAJOR UPDATE</b></font>
+<font size="15" color="#9A9A9A"><b>Version 0.11.0 (Pre-Alpha)</b></font>
+
+<i><font size="15" color="#C8C8C8">A big mobile overhaul — landscape play,
+a rebuilt HUD layout and touch fixes
+throughout — plus clearer skill-move
+duels, a sweeping VAR camera and smarter
+ball ownership.</font></i>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="23" color="#3FD1C7"><b>📱 Mobile Overhaul</b></font>
+<font size="15" color="#D7D7D7"><font color="#3FD1C7">•</font> Mobile now plays in forced landscape
+<font color="#3FD1C7">•</font> Scoreline, countdown and boost timer
+stack so they clear the topbar
+<font color="#3FD1C7">•</font> Screen-wipe transitions now extend
+into the device safe area
+<font color="#3FD1C7">•</font> More reliable stop-ball release on
+touch
+<font color="#3FD1C7">•</font> Tutorial prompts no longer cut off
+their text
+<font color="#3FD1C7">•</font> Bigger Quests and Achievements text
+for readability
+<font color="#3FD1C7">•</font> Goal-replay skip button now respects
+the topbar</font>
+
+<font size="23" color="#5DD55D"><b>⚔️ Skill Moves &amp; Duels</b></font>
+<font size="15" color="#D7D7D7"><font color="#5DD55D">•</font> A fading white outline now shows your
+tackle-iframe window
+<font color="#5DD55D">•</font> Green flash when your iframe punishes
+a tackler
+<font color="#5DD55D">•</font> Escape moves now use your speed at the
+moment the move starts</font>
+
+<font size="23" color="#FF5C7A"><b>🎥 VAR &amp; Presentation</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF5C7A">•</font> New sweeping VAR cutscene camera
+<font color="#FF5C7A">•</font> Players now park fully hidden behind
+the screen wipe
+<font color="#FF5C7A">•</font> New scoreboard toggle icon in the
+topbar</font>
+
+<font size="23" color="#FF7A45"><b>⚽ Match &amp; Ball</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> Better ball ownership on contested
+balls and bad touches
+<font color="#FF7A45">•</font> Dribble touches now count toward who
+gets credited for a goal
+<font color="#FF7A45">•</font> The ball handler is slightly slower,
+so defending feels fairer
+<font color="#FF7A45">•</font> Minimum players are re-checked at
+kickoff</font>
+
+<font size="23" color="#FF6FB5"><b>⚙️ Settings &amp; UI</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF6FB5">•</font> New "Show Offside Line" setting so you
+can toggle the line
+<font color="#FF6FB5">•</font> Menus now lock during cutscenes and
+replays, so nothing opens mid-moment</font>
+
+<font size="23" color="#FFD54A"><b>🎓 Onboarding</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> The tutorial now auto-starts only on
+your first session
+<font color="#FFD54A">•</font> New players fill teams by a fixed
+position priority</font>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="23" color="#FFD54A"><b>Summary</b></font>
+<font size="15" color="#D7D7D7">This update brings:
+<font color="#FFD54A">•</font> A full mobile overhaul with landscape
+play
+<font color="#FFD54A">•</font> Clearer skill-move duels and iframe
+feedback
+<font color="#FFD54A">•</font> Sweeping VAR camera and smarter ball
+ownership</font>
+
+<i><font size="17" color="#FFD54A"><b>More coming soon ⚽</b></font></i>
+
+
+
+<font color="#FFD54A">◆</font><font color="#5A5A5A">━━━━━━━━━━━━━━━━━━━━━━</font><font color="#FFD54A">◆</font>
+
+
+
+<font size="32" color="#FFD54A"><b>⚽ TK SOCCER
+MAJOR UPDATE</b></font>
 <font size="15" color="#9A9A9A"><b>Version 0.10.0 (Pre-Alpha)</b></font>
 
 <i><font size="15" color="#C8C8C8">This one brings the drama — VAR offside
