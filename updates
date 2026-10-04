@@ -3,10 +3,11 @@ MAJOR UPDATE</b></font>
 <font size="15" color="#9A9A9A"><b>Version 0.12.0 (Pre-Alpha)</b></font>
 
 <i><font size="15" color="#C8C8C8">Our biggest update yet — AI goalkeepers
-that fill empty goals, a brand-new
-hands-on tutorial, boots and shirts to
-collect, shot previews, Ball Cam and a
-much faster turnaround between matches.</font></i>
+that fill empty goals, curved free kicks
+and reworked throw-ins, a brand-new
+tutorial, boots and shirts to collect,
+shot previews, Ball Cam and a much
+faster turnaround between matches.</font></i>
 
 <font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
 
@@ -15,14 +16,37 @@ much faster turnaround between matches.</font></i>
 slots during matches
 <font color="#FF5C7A">•</font> They track the ball, cut down angles,
 and dive or catch to make saves
+<font color="#FF5C7A">•</font> Dives are timed to meet the ball, and
+only clean takes are caught — everything
+else is parried
 <font color="#FF5C7A">•</font> They read curved shots and charge down
 dribblers near goal
-<font color="#FF5C7A">•</font> They claim loose balls, distribute,
-and take their own goal kicks
+<font color="#FF5C7A">•</font> They claim loose balls, walk back to
+their line and distribute
 <font color="#FF5C7A">•</font> The home keeper wears the avatar of
 the #1 player on the Saves leaderboard —
 the away keeper wears #2
 <font color="#FF5C7A">•</font> AI keepers now appear in goal replays</font>
+
+<font size="23" color="#FF7A45"><b>🚩 Set Pieces</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> You can now curve free kicks on PC and
+console, just like in open play
+<font color="#FF7A45">•</font> The curve indicator and shot preview
+now work at free kicks too
+<font color="#FF7A45">•</font> The fouled player now takes the free
+kick
+<font color="#FF7A45">•</font> Throw-ins now go where your camera
+faces, the same on PC, mobile and
+console
+<font color="#FF7A45">•</font> Throw-ins can no longer go back out of
+play or over the end line
+<font color="#FF7A45">•</font> Look up to lob a throw-in, look down
+to throw it flat
+<font color="#FF7A45">•</font> AI keepers take their own goal kicks —
+a pass to an open teammate or a punt
+downfield
+<font color="#FF7A45">•</font> A keeper tipping the ball behind now
+correctly gives a corner</font>
 
 <font size="23" color="#FFD54A"><b>🎓 New Tutorial</b></font>
 <font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> New players now start in a dedicated
@@ -36,25 +60,29 @@ can skip it</font>
 
 <font size="23" color="#C77DFF"><b>👕 New Cosmetics</b></font>
 <font size="15" color="#D7D7D7"><font color="#C77DFF">•</font> 12 equippable football boots
-<font color="#C77DFF">•</font> New shirt styles: Short Sleeve and
-Long Sleeve
+<font color="#C77DFF">•</font> New 3D shirts in Short Sleeve or Long
+Sleeve, always in your team's colours
 <font color="#C77DFF">•</font> New TKS headbands in black and white
 <font color="#C77DFF">•</font> Goalkeepers now wear gloves
 <font color="#C77DFF">•</font> The shop is now split into category
-sections, each with its own daily picks
-<font color="#C77DFF">•</font> The Starter Pack can now be reopened
-from a button</font>
+sections, each with three daily picks
+<font color="#C77DFF">•</font> Closing the Starter Pack leaves a
+button with a live countdown so you can
+reopen it</font>
 
 <font size="23" color="#5DD55D"><b>🎯 Shooting &amp; Passing</b></font>
 <font size="15" color="#D7D7D7"><font color="#5DD55D">•</font> Simple mode now previews your shot or
 pass path while you charge
-<font color="#5DD55D">•</font> Mobile: drag the Shoot button to curve
-your shot
-<font color="#5DD55D">•</font> You can now curve set-piece balls
-<font color="#5DD55D">•</font> Throw-ins now aim with your camera and
-stay on the pitch
+<font color="#5DD55D">•</font> Mobile: drag the Shoot button to
+curve, with gradual control over how
+much
+<font color="#5DD55D">•</font> Simple mode: letting go of your curve
+key a split-second before Shoot no
+longer straightens the shot
 <font color="#5DD55D">•</font> Ball roll and bounce retuned to feel
-more natural</font>
+more natural
+<font color="#5DD55D">•</font> The ball no longer bounces off hats,
+kit text or accessories</font>
 
 <font size="23" color="#3FD1C7"><b>🎮 Controls &amp; Settings</b></font>
 <font size="15" color="#D7D7D7"><font color="#3FD1C7">•</font> New Ball Cam — hold to trail the
@@ -67,20 +95,26 @@ Simple control mode automatically
 <font color="#3FD1C7">•</font> New Show Stadium setting to toggle the
 stadium on or off</font>
 
-<font size="23" color="#FF7A45"><b>⚽ Match &amp; Referee</b></font>
-<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> Intermission cut from 60 to 10 seconds
+<font size="23" color="#5BC8FF"><b>⚽ Match &amp; Referee</b></font>
+<font size="15" color="#D7D7D7"><font color="#5BC8FF">•</font> Intermission cut from 60 to 10 seconds
 — straight back into the action
-<font color="#FF7A45">•</font> The referee now blows the whistle for
-stoppages and offside
-<font color="#FF7A45">•</font> The fouled player now takes the free
-kick
-<font color="#FF7A45">•</font> Fewer false offside calls after the
+<font color="#5BC8FF">•</font> The referee now blows the whistle for
+fouls, penalties and offside
+<font color="#5BC8FF">•</font> A goal scored during a VAR review is
+now correctly ruled out
+<font color="#5BC8FF">•</font> Fewer false offside calls after the
 ball respawns
-<font color="#FF7A45">•</font> No more goal replays during VAR
+<font color="#5BC8FF">•</font> No more goal replays playing over VAR
 reviews</font>
 
 <font size="23" color="#9FB3C8"><b>🛠️ Fixes &amp; Stability</b></font>
-<font size="15" color="#D7D7D7"><font color="#9FB3C8">•</font> Tackles can no longer slip past
+<font size="15" color="#D7D7D7"><font color="#9FB3C8">•</font> Keepers reach higher balls and
+reliably stop easy shots, including ones
+rolled straight at them
+<font color="#9FB3C8">•</font> Parries no longer rebound as hard
+<font color="#9FB3C8">•</font> Catching a fast shot no longer
+launches the keeper
+<font color="#9FB3C8">•</font> Tackles can no longer slip past
 skill-move iframes
 <font color="#9FB3C8">•</font> Steadier camera during the MVP
 cinematic
@@ -98,8 +132,10 @@ hood for stability</font>
 <font size="23" color="#FFD54A"><b>Summary</b></font>
 <font size="15" color="#D7D7D7">This update brings:
 <font color="#FFD54A">•</font> AI goalkeepers that fill empty goals
+<font color="#FFD54A">•</font> Curved free kicks and reworked
+throw-ins
 <font color="#FFD54A">•</font> A brand-new hands-on tutorial
-<font color="#FFD54A">•</font> Boots, shirts and headbands to collect
+<font color="#FFD54A">•</font> Boots, 3D shirts and headbands
 <font color="#FFD54A">•</font> Shot previews, Ball Cam and 10-second
 intermissions</font>
 
