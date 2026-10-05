@@ -1,5 +1,84 @@
 <font size="32" color="#FFD54A"><b>⚽ TK SOCCER
 UPDATE</b></font>
+<font size="15" color="#9A9A9A"><b>Version 0.12.2 (Pre-Alpha)</b></font>
+
+<i><font size="15" color="#C8C8C8">A balance and fixes patch: faster
+movement, weaker shots, a 12-hour shop
+rotation, and fixes for stats, rewards,
+full-time and security.</font></i>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="23" color="#5DD55D"><b>⚖️ Balance</b></font>
+<font size="15" color="#D7D7D7"><font color="#5DD55D">•</font> Players move faster: jog 16 to 18,
+sprint 22 to 24
+<font color="#5DD55D">•</font> Shots are weaker: power down from
+85-105 to 77-95
+<font color="#5DD55D">•</font> Shots charge slower, with a full
+charge now taking 1 second
+<font color="#5DD55D">•</font> The ball loses more speed on each
+bounce (20%, up from 10%)
+<font color="#5DD55D">•</font> AI keepers chase at the new sprint
+speed, so races stay fair</font>
+
+<font size="23" color="#C77DFF"><b>🛒 Shop &amp; Visuals</b></font>
+<font size="15" color="#D7D7D7"><font color="#C77DFF">•</font> The shop now rotates every 12 hours
+instead of every 24
+<font color="#C77DFF">•</font> Your player fades out while you charge
+a kick with the camera close, so you can
+see the ball and your aim</font>
+
+<font size="23" color="#FF7A45"><b>⚽ Match Fixes</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> A last-minute goal now finishes
+celebrating before the final whistle
+<font color="#FF7A45">•</font> Players leaving at full-time no longer
+cost everyone else their rewards, stats
+and end screen
+<font color="#FF7A45">•</font> Saves now count after the first set
+piece or goal
+<font color="#FF7A45">•</font> Received passes now count properly in
+your stats
+<font color="#FF7A45">•</font> No more false offside calls after an
+AI keeper kicks the ball
+<font color="#FF7A45">•</font> Celebration cutscenes now show your
+team shorts</font>
+
+<font size="23" color="#FFB347"><b>🔒 Security</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFB347">•</font> Closed exploits that let players run
+debug console commands or send
+impossible kicks
+<font color="#FFB347">•</font> Purchases are now confirmed only once
+they're saved, so a crash can't lose
+them</font>
+
+<font size="23" color="#9FB3C8"><b>🛠️ UI Fixes</b></font>
+<font size="15" color="#D7D7D7"><font color="#9FB3C8">•</font> The kit number buttons in My Player
+can be clicked again
+<font color="#9FB3C8">•</font> The Starter Pack badge now sits on the
+button's corner
+<font color="#9FB3C8">•</font> Status message letters are easier to
+read on mobile</font>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="23" color="#FFD54A"><b>Summary</b></font>
+<font size="15" color="#D7D7D7">This update brings:
+<font color="#FFD54A">•</font> Faster movement, weaker shots and
+slower charging
+<font color="#FFD54A">•</font> A 12-hour shop rotation
+<font color="#FFD54A">•</font> Fixes for stats, rewards and full-time
+<font color="#FFD54A">•</font> Security and purchase-safety fixes</font>
+
+<i><font size="17" color="#FFD54A"><b>More coming soon ⚽</b></font></i>
+
+
+
+<font color="#FFD54A">◆</font><font color="#5A5A5A">━━━━━━━━━━━━━━━━━━━━━━</font><font color="#FFD54A">◆</font>
+
+
+
+<font size="32" color="#FFD54A"><b>⚽ TK SOCCER
+UPDATE</b></font>
 <font size="15" color="#9A9A9A"><b>Version 0.12.1 (Pre-Alpha)</b></font>
 
 <i><font size="15" color="#C8C8C8">A polish patch: a reworked end screen
