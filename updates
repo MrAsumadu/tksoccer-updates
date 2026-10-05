@@ -1,4 +1,110 @@
 <font size="32" color="#FFD54A"><b>⚽ TK SOCCER
+UPDATE</b></font>
+<font size="15" color="#9A9A9A"><b>Version 0.12.1 (Pre-Alpha)</b></font>
+
+<i><font size="15" color="#C8C8C8">A polish patch: a reworked end screen
+with proper level-ups, rarity effects on
+every item, football-style status
+messages, tutorial upgrades and a round
+of shooting and dribbling balance.</font></i>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="23" color="#FFD54A"><b>🏆 End Screen Rework</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> The XP bar now fills with a gradient,
+a travelling shine and a sparking tip,
+with a +XP counter counting up
+<font color="#FFD54A">•</font> Level-ups punch your new level in gold
+with shockwave rings, beams and a LEVEL
+UP banner, bigger for every extra level
+<font color="#FFD54A">•</font> XP and cash figures roll up as each
+row lands, and the total stamps in with
+a chalk line and gold sparks
+<font color="#FFD54A">•</font> Your best stat gets a shine, and a win
+shimmers gold
+<font color="#FFD54A">•</font> Landing exactly on a full bar now
+counts as a level-up</font>
+
+<font size="23" color="#C77DFF"><b>💎 Rarity Effects</b></font>
+<font size="15" color="#D7D7D7"><font color="#C77DFF">•</font> Every item card now shows its rarity:
+Uncommon glows, Rare and up shine, Epic
+and up get turning beams and a pulsing
+outline
+<font color="#C77DFF">•</font> Legendary items add rising gold motes
+<font color="#C77DFF">•</font> Shown in the shop, My Player, end
+screen rewards, Career Stats awards and
+the Starter Pack
+<font color="#C77DFF">•</font> Shop cards now deal in once they're
+ready instead of popping in
+<font color="#C77DFF">•</font> Buying an item bursts the card and
+stamps it OWNED, right on the confirm
+card</font>
+
+<font size="23" color="#FF7A45"><b>🟨 Status Messages</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF7A45">•</font> Errors now show a red card, warnings a
+yellow card, successes a chalk tick and
+info the fourth official's board
+<font color="#FF7A45">•</font> A chalk line paints under each
+message, and old messages fold away as
+the stack slides up</font>
+
+<font size="23" color="#5DD55D"><b>⚖️ Balance</b></font>
+<font size="15" color="#D7D7D7"><font color="#5DD55D">•</font> Shots charge about 20% more slowly
+<font color="#5DD55D">•</font> Every shot type launches lower:
+Standard and Backspin 18°, Topspin 40°,
+Knuckleball 22°
+<font color="#5DD55D">•</font> Players are a little slower on the
+ball, down from 90% to 85% of normal
+speed</font>
+
+<font size="23" color="#5BC8FF"><b>🌍 Translations</b></font>
+<font size="15" color="#D7D7D7"><font color="#5BC8FF">•</font> More of the game now appears in your
+language, including over-head titles and
+animated text</font>
+
+<font size="23" color="#3FD1C7"><b>🎓 Tutorial</b></font>
+<font size="15" color="#D7D7D7"><font color="#3FD1C7">•</font> Arrows show where passes are headed,
+and a yellow marker shows where the high
+ball comes down
+<font color="#3FD1C7">•</font> The referee blows the whistle when the
+free kick can be taken
+<font color="#3FD1C7">•</font> Tutorial messages now size to fit,
+with more room for longer text
+<font color="#3FD1C7">•</font> A success sound plays on "Nice!"
+<font color="#3FD1C7">•</font> The hotbar stays hidden until the
+skills drill</font>
+
+<font size="23" color="#9FB3C8"><b>🛠️ Fixes &amp; Performance</b></font>
+<font size="15" color="#D7D7D7"><font color="#9FB3C8">•</font> The game now sends far less data per
+player, easing load on servers
+<font color="#9FB3C8">•</font> Any mouse, keyboard, touch or
+controller input now counts as activity,
+so you won't be AFK-kicked while playing
+<font color="#9FB3C8">•</font> Players without a team have their
+black shorts back
+<font color="#9FB3C8">•</font> Particle tooltips now show in front of
+the shop</font>
+
+<font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="23" color="#FFD54A"><b>Summary</b></font>
+<font size="15" color="#D7D7D7">This update brings:
+<font color="#FFD54A">•</font> A reworked end screen with real
+level-ups
+<font color="#FFD54A">•</font> Rarity effects on every item card
+<font color="#FFD54A">•</font> Football-style status messages
+<font color="#FFD54A">•</font> Lower, slower-charging shots and a
+slower ball carrier</font>
+
+<i><font size="17" color="#FFD54A"><b>More coming soon ⚽</b></font></i>
+
+
+
+<font color="#FFD54A">◆</font><font color="#5A5A5A">━━━━━━━━━━━━━━━━━━━━━━</font><font color="#FFD54A">◆</font>
+
+
+
+<font size="32" color="#FFD54A"><b>⚽ TK SOCCER
 MAJOR UPDATE</b></font>
 <font size="15" color="#9A9A9A"><b>Version 0.12.0 (Pre-Alpha)</b></font>
 
