@@ -2,14 +2,26 @@
 MAJOR UPDATE</b></font>
 <font size="15" color="#9A9A9A"><b>Version 0.12.0 (Pre-Alpha)</b></font>
 
-<i><font size="15" color="#C8C8C8">Our biggest update yet — AI goalkeepers
-that fill empty goals, curved free kicks
-and reworked throw-ins, a brand-new
-tutorial, boots and shirts to collect,
-shot previews, Ball Cam and a much
-faster turnaround between matches.</font></i>
+<i><font size="15" color="#C8C8C8">Our biggest update yet, and a fresh
+start. AI goalkeepers fill empty goals,
+free kicks curve, throw-ins are
+reworked, a new drill tutorial teaches
+the basics, and random level rewards,
+boots and shirts give you more to chase.</font></i>
 
 <font color="#3A3A3A">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<font size="23" color="#FFB347"><b>⚠️ Progress Reset</b></font>
+<font size="15" color="#D7D7D7"><font color="#FFB347">•</font> All player progress has been reset for
+pre-alpha
+<font color="#FFB347">•</font> Levels, cash, items and stats start
+fresh for everyone
+<font color="#FFB347">•</font> Codes LAUNCH and BOOSTDAY work again
+until October 31 — redeem them for a
+head start
+<font color="#FFB347">•</font> LAUNCH gives $5,000 and 2,000 XP;
+BOOSTDAY gives 30 minutes of 2x XP and
+2x Cash</font>
 
 <font size="23" color="#FF5C7A"><b>🧤 AI Goalkeepers</b></font>
 <font size="15" color="#D7D7D7"><font color="#FF5C7A">•</font> AI keepers now fill empty goalkeeper
@@ -38,6 +50,8 @@ kick
 <font color="#FF7A45">•</font> Throw-ins now go where your camera
 faces, the same on PC, mobile and
 console
+<font color="#FF7A45">•</font> Throw-ins now show a trajectory
+preview while you aim
 <font color="#FF7A45">•</font> Throw-ins can no longer go back out of
 play or over the end line
 <font color="#FF7A45">•</font> Look up to lob a throw-in, look down
@@ -49,14 +63,44 @@ downfield
 correctly gives a corner</font>
 
 <font size="23" color="#FFD54A"><b>🎓 New Tutorial</b></font>
-<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> New players now start in a dedicated
-tutorial with a coach and hands-on
-drills
+<font size="15" color="#D7D7D7"><font color="#FFD54A">•</font> A brand-new drill tutorial with a
+coach and hands-on drills
 <font color="#FFD54A">•</font> Drills cover moving, passing,
 receiving, shooting, curving, skills and
 tackling
-<font color="#FFD54A">•</font> You're only sent there once, and you
-can skip it</font>
+<font color="#FFD54A">•</font> Everyone who hasn't finished it is
+sent there, new and existing players
+alike
+<font color="#FFD54A">•</font> Finish or skip it once and you're done
+— leave midway and you'll be sent back
+next time
+<font color="#FFD54A">•</font> Bigger, easier-to-read tutorial
+prompts
+<font color="#FFD54A">•</font> The old in-match tutorial has been
+retired
+<font color="#FFD54A">•</font> New players now pick their own team
+from the menu</font>
+
+<font size="23" color="#FF6FB5"><b>📈 Progression &amp; Rewards</b></font>
+<font size="15" color="#D7D7D7"><font color="#FF6FB5">•</font> Your first completed match gives a
+one-time +500 XP bonus, so everyone
+reaches level 2 straight away
+<font color="#FF6FB5">•</font> After that, levelling is steadier —
+about 3 matches per level early on
+<font color="#FF6FB5">•</font> Every 10th level rolls a random
+cosmetic, revealed with a flip-card
+animation that grows with rarity
+<font color="#FF6FB5">•</font> Duplicates pay out 50% of the item's
+shop price in cash
+<font color="#FF6FB5">•</font> The end screen now lists exactly what
+you were paid, including quests,
+achievements, daily rewards and group
+bonus
+<font color="#FF6FB5">•</font> Enforcer, Anchor, Clean Sheet,
+Playmaker and Poacher titles are now
+achievement-only
+<font color="#FF6FB5">•</font> The Established and Champion
+achievements now pay $300 and $600</font>
 
 <font size="23" color="#C77DFF"><b>👕 New Cosmetics</b></font>
 <font size="15" color="#D7D7D7"><font color="#C77DFF">•</font> 12 equippable football boots
@@ -79,6 +123,8 @@ much
 <font color="#5DD55D">•</font> Simple mode: letting go of your curve
 key a split-second before Shoot no
 longer straightens the shot
+<font color="#5DD55D">•</font> Shots that clip something on the way
+up now keep curving properly
 <font color="#5DD55D">•</font> Ball roll and bounce retuned to feel
 more natural
 <font color="#5DD55D">•</font> The ball no longer bounces off hats,
@@ -105,7 +151,13 @@ now correctly ruled out
 <font color="#5BC8FF">•</font> Fewer false offside calls after the
 ball respawns
 <font color="#5BC8FF">•</font> No more goal replays playing over VAR
-reviews</font>
+reviews
+<font color="#5BC8FF">•</font> Players who sit on a team without
+moving are kicked after 3 minutes (with
+a 30-second warning), so rewards go to
+people actually playing
+<font color="#5BC8FF">•</font> No MVP is picked when a team is empty
+at full-time</font>
 
 <font size="23" color="#9FB3C8"><b>🛠️ Fixes &amp; Stability</b></font>
 <font size="15" color="#D7D7D7"><font color="#9FB3C8">•</font> Keepers reach higher balls and
@@ -116,10 +168,16 @@ rolled straight at them
 launches the keeper
 <font color="#9FB3C8">•</font> Tackles can no longer slip past
 skill-move iframes
+<font color="#9FB3C8">•</font> The drag back no longer tilts your
+player up or down
 <font color="#9FB3C8">•</font> Steadier camera during the MVP
 cinematic
 <font color="#9FB3C8">•</font> Shift lock now steps aside cleanly
 while menus are open
+<font color="#9FB3C8">•</font> The Starter Pack button stays in its
+corner and off the end screen
+<font color="#9FB3C8">•</font> My Player no longer breaks if opened
+while your profile loads
 <font color="#9FB3C8">•</font> Fixed the join-group button
 <font color="#9FB3C8">•</font> Mobile touch buttons stay clickable
 over other UI
@@ -131,10 +189,13 @@ hood for stability</font>
 
 <font size="23" color="#FFD54A"><b>Summary</b></font>
 <font size="15" color="#D7D7D7">This update brings:
+<font color="#FFD54A">•</font> A fresh start, with LAUNCH and
+BOOSTDAY back
 <font color="#FFD54A">•</font> AI goalkeepers that fill empty goals
 <font color="#FFD54A">•</font> Curved free kicks and reworked
 throw-ins
-<font color="#FFD54A">•</font> A brand-new hands-on tutorial
+<font color="#FFD54A">•</font> A new drill tutorial and random level
+rewards
 <font color="#FFD54A">•</font> Boots, 3D shirts and headbands
 <font color="#FFD54A">•</font> Shot previews, Ball Cam and 10-second
 intermissions</font>
